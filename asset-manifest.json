@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.4959361f.chunk.css",
-    "main.js": "/portfolio/static/js/main.da4c1205.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.da4c1205.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.94e8fcfa.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.94e8fcfa.js.map",
-    "static/js/2.6c1d8572.chunk.js": "/portfolio/static/js/2.6c1d8572.chunk.js",
-    "static/js/2.6c1d8572.chunk.js.map": "/portfolio/static/js/2.6c1d8572.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.70bb8538dc468aa176337e5299b58276.js": "/portfolio/precache-manifest.70bb8538dc468aa176337e5299b58276.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.4959361f.chunk.css.map": "/portfolio/static/css/main.4959361f.chunk.css.map",
-    "static/js/2.6c1d8572.chunk.js.LICENSE.txt": "/portfolio/static/js/2.6c1d8572.chunk.js.LICENSE.txt",
-    "static/media/sad-icon.png": "/portfolio/static/media/sad-icon.b88924d5.png",
-    "static/media/spring_gray.png": "/portfolio/static/media/spring_gray.f1ffeecd.png",
-    "static/media/tensorflow.png": "/portfolio/static/media/tensorflow.91c9cd71.png"
+    "main.css": "/static/css/main.4959361f.chunk.css",
+    "main.js": "/static/js/main.b8dddb41.chunk.js",
+    "main.js.map": "/static/js/main.b8dddb41.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cf4e4ba0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cf4e4ba0.js.map",
+    "static/js/2.6c1d8572.chunk.js": "/static/js/2.6c1d8572.chunk.js",
+    "static/js/2.6c1d8572.chunk.js.map": "/static/js/2.6c1d8572.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.984d616356f0e3f2a15416a0a66af225.js": "/precache-manifest.984d616356f0e3f2a15416a0a66af225.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4959361f.chunk.css.map": "/static/css/main.4959361f.chunk.css.map",
+    "static/js/2.6c1d8572.chunk.js.LICENSE.txt": "/static/js/2.6c1d8572.chunk.js.LICENSE.txt",
+    "static/media/sad-icon.png": "/static/media/sad-icon.b88924d5.png",
+    "static/media/spring_gray.png": "/static/media/spring_gray.f1ffeecd.png",
+    "static/media/tensorflow.png": "/static/media/tensorflow.91c9cd71.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.94e8fcfa.js",
+    "static/js/runtime-main.cf4e4ba0.js",
     "static/js/2.6c1d8572.chunk.js",
     "static/css/main.4959361f.chunk.css",
-    "static/js/main.da4c1205.chunk.js"
+    "static/js/main.b8dddb41.chunk.js"
   ]
 }
